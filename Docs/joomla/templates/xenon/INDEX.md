@@ -56,7 +56,7 @@ Key Features
 
 ![Particles](ft-2.jpg)
 
-TThe template features a diverse collection of new particles, to enrich your site content. Xenon debuts Chartist, a visually stunning graphical chart display script, alongside the News Slider and News ticker particles, amongst several others.
+The template features a diverse collection of new particles, to enrich your site content. Xenon debuts Chartist, a visually stunning graphical chart display script, alongside the News Slider and News ticker particles, amongst several others.
 
 ## Login Popup
 
